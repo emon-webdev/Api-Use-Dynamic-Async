@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\m-32-explore-api"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "33-1-api-example"
+	}
+}
